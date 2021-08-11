@@ -27,7 +27,7 @@
     padding: 60px;
     text-align: center;
     background-color: lightcoral;
-    background-image: url('https://media.giphy.com/media/gmmdtnbcRdDMs/giphy.gif');
+   /* background-image: url('https://media.giphy.com/media/gmmdtnbcRdDMs/giphy.gif'); */
     background-repeat: no-repeat;
     background-size: auto;
     color: black;
